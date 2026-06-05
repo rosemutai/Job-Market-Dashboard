@@ -1,4 +1,6 @@
 # Job Market Intelligence Dashboard (Power BI)
+![Dashboard](https://github.com/rosemutai/Job-Market-Dashboard/blob/main/images/dashboard.png)
+
 
 ## 1. Project Overview
 This project analyzes job posting trends using a LinkedIn job dataset to uncover in-demand roles, 
